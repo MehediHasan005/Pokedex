@@ -16,6 +16,7 @@
 		553104ED2934B83700D57634 /* PokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553104EC2934B83700D57634 /* PokedexTests.swift */; };
 		553104F72934B83700D57634 /* PokedexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553104F62934B83700D57634 /* PokedexUITests.swift */; };
 		553104F92934B83700D57634 /* PokedexUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 553104F82934B83700D57634 /* PokedexUITestsLaunchTests.swift */; };
+		553105062934BA8E00D57634 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 553105052934BA8E00D57634 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		553104F22934B83700D57634 /* PokedexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokedexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		553104F62934B83700D57634 /* PokedexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexUITests.swift; sourceTree = "<group>"; };
 		553104F82934B83700D57634 /* PokedexUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		553105052934BA8E00D57634 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				553104D52934B83500D57634 /* AppDelegate.swift */,
 				553104D72934B83500D57634 /* SceneDelegate.swift */,
 				553104D92934B83500D57634 /* ViewController.swift */,
+				553105052934BA8E00D57634 /* pokemon.csv */,
 				553104DB2934B83500D57634 /* Main.storyboard */,
 				553104DE2934B83700D57634 /* Assets.xcassets */,
 				553104E02934B83700D57634 /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 			files = (
 				553104E22934B83700D57634 /* LaunchScreen.storyboard in Resources */,
 				553104DF2934B83700D57634 /* Assets.xcassets in Resources */,
+				553105062934BA8E00D57634 /* pokemon.csv in Resources */,
 				553104DD2934B83500D57634 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
